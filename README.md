@@ -1,10 +1,10 @@
 
-
+<img width="auto" src="https://github.com/Guel-Almeida/Guel-Almeida/me.jpg">
 
 
 ### Seja Bem Vindo ao meu Github 👋
 # Miguel de Almeida
-<img width="auto" src="https://github.com/Guel-Almeida/Guel-Almeida/me.jpg">
+
 ## Olá pessoal 👋
 
 I'm Web Developer
