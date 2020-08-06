@@ -1,5 +1,5 @@
 
-<img width="100%" height="500px" src="https://github.com/Guel-Almeida/Guel-Almeida/blob/master/me.png">
+<img width=auto src="https://github.com/Guel-Almeida/Guel-Almeida/blob/master/timido.png">
 
 
 
