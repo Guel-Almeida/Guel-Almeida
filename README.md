@@ -1,6 +1,9 @@
-
+<figure>
 <img width=auto src="https://github.com/Guel-Almeida/Guel-Almeida/blob/master/timido.png">
-
+  <legend>
+    Imagem tirada da web
+    <legend>
+<figure>
 
 
 
