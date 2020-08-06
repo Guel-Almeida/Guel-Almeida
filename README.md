@@ -1,5 +1,7 @@
 
-<img width="auto" src="https://github.com/Guel-Almeida/Guel-Almeida/me.jpg">
+<img width="auto" src="https://github.com/Guel-Almeida/Guel-Almeida/me.JPG">
+
+<img width="auto" src="https://github.com/Guel-Almeida/Guel-Almeida/me.JPEG">
 
 
 ### Seja Bem Vindo ao meu Github 👋
