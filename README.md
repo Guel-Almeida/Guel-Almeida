@@ -15,10 +15,10 @@
 I'm Web Developer
 passionate about knowledge sharing  :computer:
 
-  &nbsp; no Momento actuando com freelancer
+  &nbsp;Desenvolvedor Web na Mwango Click
  <br/> :purple_heart: &nbsp; Disponivel pra participar de projectos ou trocas de experiências 
   <br/> :computer: &nbsp; Minha Stack: html5, css3, Js, Jquery, Bootstrap, php, Laravel, CodeIgniter
- <br/> :computer: &nbsp; Aprendendos: ReactJS, Node.js & Typescript
+ <br/> :computer: &nbsp; Aprendendos: ReactJs, React Native, Node.js & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Maratonar Series, Amo a Arte no seu todo escrevo Poesia nos tempos livres
  <br/> Contactos &nbsp; :
  <br/> [![Linkedin Badge](https://img.shields.io/badge/-GuelAlmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guel-almeida-2217271ab/)](https://www.linkedin.com/in/guel-almeida-2217271ab/) 
