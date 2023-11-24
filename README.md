@@ -15,8 +15,7 @@
 I'm Web Developer
 passionate in knowledge sharing  :computer:
 
-  &nbsp;Desenvolvedor Web na <a href="https://mwangoclick.ao/">Mwango Click</a>
- <br/> :purple_heart: &nbsp; Disponivel pra participar de projectos ou trocas de experiências 
+  &nbsp;Backend Developer
   <br/> :computer: &nbsp; Minha Stack: html5, css3, Js, Jquery, Bootstrap, php, Laravel, CodeIgniter
  <br/> :computer: &nbsp; Aprendendos: ReactJs, React Native, Node.js & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Maratonar Series, Amo a Arte no seu todo escrevo Poesia nos tempos livres
