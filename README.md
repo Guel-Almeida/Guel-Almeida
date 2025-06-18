@@ -1,25 +1,32 @@
 <figure>
-<img width=auto src="https://github.com/Guel-Almeida/Guel-Almeida/blob/master/timido.png">
-  <legend>
-    Imagem tirada da web
-    <legend>
-<figure>
+  <img src="https://github.com/Guel-Almeida/Guel-Almeida/blob/master/timido.png" width="auto">
+  <figcaption>Image sourced from the web</figcaption>
+</figure>
 
+# 👋 Welcome to my GitHub!
 
+## Miguel de Almeida
 
-### Seja Bem Vindo ao meu Github 👋
-# Miguel de Almeida
+### Web Developer | Backend Specialist | Technology Enthusiast
 
-## Olá pessoal 👋
+I'm a backend developer with strong experience in building efficient and scalable solutions. I enjoy learning, solving problems, and applying technology to create meaningful impact.
 
-I'm Web Developer
-passionate in knowledge sharing  :computer:
+---
 
-  &nbsp;Backend Developer
-  <br/> :computer: &nbsp; Minha Stack: html5, css3, Js, Jquery, Bootstrap, php, Laravel, CodeIgniter
- <br/> :computer: &nbsp; Aprendendos: ReactJs, React Native, Node.js & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, Maratonar Series, Amo a Arte no seu todo escrevo Poesia nos tempos livres
- <br/> Contactos &nbsp; :
- <br/> [![Linkedin Badge](https://img.shields.io/badge/-GuelAlmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guel-almeida-2217271ab/)](https://www.linkedin.com/in/guel-almeida-2217271ab/) 
- <br/>[![Facebook Badge](https://img.shields.io/badge/-guelgaietaalmeida-c14438?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/micanjel)](https://web.facebook.com/micanjel)
- 
+### 💻 Tech Stack
+- **Languages & Frameworks**: Java, PHP (Laravel)
+- **Banking Systems**: Temenos T24 Transact
+- **Core Skills**: API design, integration, clean code, system architecture
+
+---
+
+### 📌 About Me
+Outside of tech, I’m passionate about art in all forms. I enjoy writing poetry, binge-watching series, and exploring creative expressions that go beyond code.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-GuelAlmeida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guel-almeida-2217271ab/)](https://www.linkedin.com/in/guel-almeida-2217271ab/)  
+[![Facebook](https://img.shields.io/badge/-guelgaietaalmeida-c14438?style=flat-square&logo=Facebook&logoColor=white&link=https://web.facebook.com/micanjel)](https://web.facebook.com/micanjel)
+
+> “Code is structure, discipline, and sometimes — a form of art.”
